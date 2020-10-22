@@ -1,7 +1,7 @@
 # Certifications
 
 
-https://github.com/mike0208/Certifications/blob/main/mayank-gwal-certified-kubernetes-administrator-cka-certificate.PNG
+<img src="https://github.com/mike0208/Certifications/blob/main/mayank-gwal-certified-kubernetes-administrator-cka-certificate.PNG">
 
 
 https://github.com/mike0208/Certifications/blob/main/Kubernetes_devops_school.PNG
