@@ -1,5 +1,7 @@
 # Certifications
 
+<img src="https://github.com/mike0208/Certifications/blob/main/Terraform_associate.png">
+
 <img src="https://github.com/mike0208/Certifications/blob/main/CKS-certificate.PNG">
 
 
